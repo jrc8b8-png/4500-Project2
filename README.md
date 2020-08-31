@@ -2,7 +2,7 @@
 
 
 
-##Project Goals:
+## Project Goals:
 
 * Have the user enter two integers for vertices and edges for the Dollar Game.
 * Have the user define the edge connections for the vertices.
